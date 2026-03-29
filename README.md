@@ -1,11 +1,13 @@
 👋 ¡Hola! Soy Ramiro Velasco.
 
 Tengo experiencia en:
+
 🎯 Diseño y desarrollo de sistemas embebidos, el control y la automatización de procesos industriales.
 ⚡ Desarrollo e implementación de modelos de inteligencia artificial para resolver problemas reales en entornos industriales, combinando hardware y software de manera eficiente
 💡 Simulación y verificación del control de sistemas complejos en entornos virtuales
 
 Mis áreas de interés son:
+
 🔌 Sistemas embebidos y electrónica aplicada
 ⚙️ Automatización y control industrial
 🤖 Inteligencia artificial aplicada a la industria
